@@ -1,0 +1,13 @@
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.csprojAssemblyReference.cache
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.AssemblyInfo.cs
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.csproj.CoreCompileInputs.cache
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.exe
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.deps.json
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.runtimeconfig.json
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.runtimeconfig.dev.json
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.dll
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\bin\Debug\netcoreapp3.1\love_bot.pdb
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.dll
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.pdb
+C:\Users\Student\workspace\personal_projects\personal_projects\love_bot\obj\Debug\netcoreapp3.1\love_bot.genruntimeconfig.cache
